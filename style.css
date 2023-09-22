@@ -1,0 +1,21 @@
+@font-face {
+  font-family: handmade;
+  src: url(Handmade.otf);
+}
+
+span {
+  font-family: handmade;
+  font-size: 200px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+}
+
+img {
+  border-radius: 200px;
+}
